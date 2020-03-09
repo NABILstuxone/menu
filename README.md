@@ -1,2 +1,5 @@
-# menu
-my project will be updated soon
+# Saya S4yang Awak
+
+Source code untuk dikongsi
+
+# C Programming
